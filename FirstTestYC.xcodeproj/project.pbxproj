@@ -14,6 +14,7 @@
 		06C6C59722CC384000AE6765 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06C6C59522CC384000AE6765 /* LaunchScreen.storyboard */; };
 		06C6C59A22CC384000AE6765 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C6C59922CC384000AE6765 /* main.m */; };
 		06C6C5A422CC384000AE6765 /* FirstTestYCUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C6C5A322CC384000AE6765 /* FirstTestYCUITests.m */; };
+		06C6C5B022CC390C00AE6765 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C6C5AF22CC390C00AE6765 /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		06C6C59F22CC384000AE6765 /* FirstTestYCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstTestYCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		06C6C5A322CC384000AE6765 /* FirstTestYCUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstTestYCUITests.m; sourceTree = "<group>"; };
 		06C6C5A522CC384000AE6765 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06C6C5AE22CC390C00AE6765 /* Test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		06C6C5AF22CC390C00AE6765 /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				06C6C59522CC384000AE6765 /* LaunchScreen.storyboard */,
 				06C6C59822CC384000AE6765 /* Info.plist */,
 				06C6C59922CC384000AE6765 /* main.m */,
+				06C6C5AE22CC390C00AE6765 /* Test.h */,
+				06C6C5AF22CC390C00AE6765 /* Test.m */,
 			);
 			path = FirstTestYC;
 			sourceTree = "<group>";
@@ -204,6 +209,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06C6C58F22CC383F00AE6765 /* ViewController.m in Sources */,
+				06C6C5B022CC390C00AE6765 /* Test.m in Sources */,
 				06C6C59A22CC384000AE6765 /* main.m in Sources */,
 				06C6C58C22CC383F00AE6765 /* AppDelegate.m in Sources */,
 			);
