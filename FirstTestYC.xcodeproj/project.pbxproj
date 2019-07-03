@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06BE0ADB22CC454F00E58B64 /* Test2.m in Sources */ = {isa = PBXBuildFile; fileRef = 06BE0ADA22CC454F00E58B64 /* Test2.m */; };
 		06C6C58C22CC383F00AE6765 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C6C58B22CC383F00AE6765 /* AppDelegate.m */; };
 		06C6C58F22CC383F00AE6765 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 06C6C58E22CC383F00AE6765 /* ViewController.m */; };
 		06C6C59222CC383F00AE6765 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06C6C59022CC383F00AE6765 /* Main.storyboard */; };
@@ -28,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		06BE0AD922CC454F00E58B64 /* Test2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test2.h; sourceTree = "<group>"; };
+		06BE0ADA22CC454F00E58B64 /* Test2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test2.m; sourceTree = "<group>"; };
 		06C6C58722CC383F00AE6765 /* FirstTestYC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstTestYC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06C6C58A22CC383F00AE6765 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		06C6C58B22CC383F00AE6765 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -95,6 +98,8 @@
 				06C6C59922CC384000AE6765 /* main.m */,
 				06C6C5AE22CC390C00AE6765 /* Test.h */,
 				06C6C5AF22CC390C00AE6765 /* Test.m */,
+				06BE0AD922CC454F00E58B64 /* Test2.h */,
+				06BE0ADA22CC454F00E58B64 /* Test2.m */,
 			);
 			path = FirstTestYC;
 			sourceTree = "<group>";
@@ -211,6 +216,7 @@
 				06C6C58F22CC383F00AE6765 /* ViewController.m in Sources */,
 				06C6C5B022CC390C00AE6765 /* Test.m in Sources */,
 				06C6C59A22CC384000AE6765 /* main.m in Sources */,
+				06BE0ADB22CC454F00E58B64 /* Test2.m in Sources */,
 				06C6C58C22CC383F00AE6765 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
